@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BEA1C6F42398F3A4002A506E /* TYNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA1C6EB2398F3A4002A506E /* TYNavigationController.swift */; };
 		BEA1C6F52398F3A4002A506E /* Command.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA1C6EC2398F3A4002A506E /* Command.swift */; };
 		BEA1C6F62398F3A4002A506E /* Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA1C6ED2398F3A4002A506E /* Const.swift */; };
 		BEA1C6F72398F3A4002A506E /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA1C6EE2398F3A4002A506E /* MyButton.swift */; };
@@ -24,7 +23,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BEA1C6EB2398F3A4002A506E /* TYNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TYNavigationController.swift; sourceTree = "<group>"; };
 		BEA1C6EC2398F3A4002A506E /* Command.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Command.swift; sourceTree = "<group>"; };
 		BEA1C6ED2398F3A4002A506E /* Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Const.swift; sourceTree = "<group>"; };
 		BEA1C6EE2398F3A4002A506E /* MyButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 				BEA1C6F82398FCD0002A506E /* UIColor+Extension.swift */,
 				BEA1C6FA2398FCD0002A506E /* UIImageView+Extension.swift */,
 				BEA1C6FC2398FCD0002A506E /* UILabel+Extension.swift */,
-				BEA1C6EB2398F3A4002A506E /* TYNavigationController.swift */,
 				BEA1C6EC2398F3A4002A506E /* Command.swift */,
 				BEA1C6ED2398F3A4002A506E /* Const.swift */,
 				BEA1C6EE2398F3A4002A506E /* MyButton.swift */,
@@ -172,7 +169,6 @@
 			files = (
 				BEA1C7012398FCD0002A506E /* UILabel+Extension.swift in Sources */,
 				BEA1C6FD2398FCD0002A506E /* UIColor+Extension.swift in Sources */,
-				BEA1C6F42398F3A4002A506E /* TYNavigationController.swift in Sources */,
 				BEEF6DF32398F36300F9BADE /* ViewController.swift in Sources */,
 				BEA1C6FF2398FCD0002A506E /* UIImageView+Extension.swift in Sources */,
 				BEA1C6FE2398FCD0002A506E /* NSObject+Extension.swift in Sources */,
@@ -257,7 +253,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -312,7 +308,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

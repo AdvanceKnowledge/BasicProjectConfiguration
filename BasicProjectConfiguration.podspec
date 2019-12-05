@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/AdvanceKnowledge/BasicProjectConfiguration"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "wangyanlei" => "920048449@qq.com" }
-  spec.platform     = :ios, "10.0"
+  spec.platform     = :ios, "8.0"
   spec.source       = { :git => "https://github.com/AdvanceKnowledge/BasicProjectConfiguration.git", :tag => "0.0.1" }
   spec.source_files = "BasicProjectConfiguration/BasicProjectConfiguration/Lib/**/*.swift"
 end
