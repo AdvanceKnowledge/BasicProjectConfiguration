@@ -24,5 +24,5 @@ Pod::Spec.new do |spec|
   spec.author       = { "wangyanlei" => "920048449@qq.com" }
   spec.platform     = :ios, "10.0"
   spec.source       = { :git => "https://github.com/AdvanceKnowledge/BasicProjectConfiguration.git", :tag => "0.0.1" }
-  spec.source_files = "RepositoryDemonstration/BasicProjectConfiguration/Lib/*.swift"
+  spec.source_files = "RepositoryDemonstration","BasicProjectConfiguration/Lib/*.swift"
 end
