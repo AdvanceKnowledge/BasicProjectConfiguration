@@ -16,13 +16,13 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BasicProjectConfiguration"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.1"
   spec.summary      = "Constant, extension"
   spec.description  = "Constant, extension,The custom"
   spec.homepage     = "https://github.com/AdvanceKnowledge/BasicProjectConfiguration"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "wangyanlei" => "920048449@qq.com" }
   spec.platform     = :ios, "10.0"
-  spec.source       = { :git => "https://github.com/AdvanceKnowledge/BasicProjectConfiguration.git", :tag => "0.0.2" }
+  spec.source       = { :git => "https://github.com/AdvanceKnowledge/BasicProjectConfiguration.git", :tag => "0.0.1" }
   spec.source_files = "RepositoryDemonstration/BasicProjectConfiguration/Lib/*.swift"
 end
