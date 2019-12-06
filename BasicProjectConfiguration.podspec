@@ -6,9 +6,9 @@ Pod::Spec.new do |s|
   s.summary      = 'Constant, extension'
   s.description  = 'Constant, extension,The custom'
   s.homepage     = 'https://github.com/AdvanceKnowledge/BasicProjectConfiguration'
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = 'MIT'
   s.author       = { 'wangyanlei' => '920048449@qq.com' }
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, '8.0'
   s.source       = { :git => 'https://github.com/AdvanceKnowledge/BasicProjectConfiguration.git', :tag => s.version }
   spec.source_files = 'Source/*.swift'
 end
