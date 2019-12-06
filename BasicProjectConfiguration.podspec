@@ -4,7 +4,6 @@ Pod::Spec.new do |s|
   s.name         = 'BasicProjectConfiguration'
   s.version      = '0.0.1'
   s.summary      = 'Constant, extension'
-  s.description  = 'Constant, extension,The custom'
   s.homepage     = 'https://github.com/AdvanceKnowledge/BasicProjectConfiguration'
   s.license      = 'MIT'
   s.author       = { 'wangyanlei' => '920048449@qq.com' }
