@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.source       = { :git => 'https://github.com/AdvanceKnowledge/BasicProjectConfiguration.git', :tag => s.version }
   spec.source_files = 'Source/*.swift'
+
 end
