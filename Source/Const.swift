@@ -13,18 +13,7 @@ typealias TwoParameter_block = (Any?,Any?) -> (Void)
 typealias HaveReturnValueParameter_block = (Any?,Any?,Any?) -> Void
 
 class Const: NSObject {
-    
-    /// 王延磊
-//    let baseURL = "http://192.168.7.109:8001/"
-    
-    ///苏志芳
-//    let baseURL = "http://192.168.7.111:8001/"
 
-    ///赵予明
-//    let baseURL = "http://192.168.7.99:8001/"
-    
-    /// 正式
-    let baseURL = "http://123.59.106.81:8001/"
     
     /// 主题背景颜色
     let mainColor = UIColor.RGB(R: 51, G: 204, B: 204, Alp: 1)
